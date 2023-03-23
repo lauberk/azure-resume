@@ -3,7 +3,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 });
 
 
-const functionApi = 'https://resumecounterapi.azurewebsites.net/api/ResumeCounter?code=kgynC6WXGZOVDxyP0tKp84wMPvUqgYxWDk9mUB1DBBppAzFuwgoRig==';
+const functionApi = 'https://functionvisitorcounter.azurewebsites.net/api/HttpTrigger1?code=tMPRRJIHJq-mvu1tTaiAEusEYd5isHyS_ZakMdUop3CvAzFup8rvZQ==';
 
 const getVisitCount = () => {
     let count = 30;
